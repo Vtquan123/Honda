@@ -2707,12 +2707,12 @@ body .back-to-top .bar {
 @media screen and (max-width: 767px) {
   #footer {
     padding-top: 0;
-    margin-top: 2px;
     background-color: #fff;
   }
   #footer #footer__menu {
     padding: 0;
     background-color: #fff;
+    padding-top: 2px;
   }
   #footer #footer__menu .footer__menu__content .footer__menu__item .footer__title__xs {
     margin-bottom: 2px;
@@ -3111,12 +3111,12 @@ body .back-to-top .bar {
 @media screen and (max-width: 576px) {
   #footer {
     padding-top: 0;
-    margin-top: 2px;
     background-color: #fff;
   }
   #footer #footer__menu {
     padding: 0;
     background-color: #fff;
+    padding-top: 2px;
   }
   #footer #footer__menu .footer__menu__content .footer__menu__item .footer__title__xs {
     margin-bottom: 2px;
